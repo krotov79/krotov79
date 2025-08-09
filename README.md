@@ -1,6 +1,6 @@
 # Hi, I'm Dmitrii Krotov 👋
+**Aspiring Data Engineer & Data Scientist | IBM & HarvardX Certified | MSc Economics & Engineering | Exploring Quantum Computing**
 
-**Aspiring Data Engineer | Data Science & Deep Learning | IBM & HarvardX Certified | MSc Economics & Engineering**
 
 [![Credly Badges](https://img.shields.io/badge/Credentials-Credly-orange)](https://www.credly.com/users/dmitrii-krotov.69a34586)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://www.kaggle.com/dmitriikrotov)
