@@ -40,9 +40,7 @@ Historical newspaper analysis for trends, sentiment shifts, and topic modeling.
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Data Engineering** and pipeline orchestration (Spark, Airflow, Kafka)
-- **Generative AI** fundamentals in Deep Learning
-- **Quantum Computing** and **Quantum Machine Learning** via IBM Quantum Platform
+- **Generative AI** with **IBM on edX** — exploring large language models, prompt engineering, and foundation models
 
 ---
 
@@ -59,6 +57,7 @@ along with a hybrid Spark + RStudio workflow for reporting and analytics.
 
 ---
 
-⭐ _Explore my repositories for more data projects!_
+⭐ _Explore my repositories for more data projects and practical machine learning pipelines!_
+
 
 
