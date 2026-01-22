@@ -27,6 +27,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+### Model Serving & Applications
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ### Generative AI & Emerging Tech
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
@@ -39,19 +42,34 @@
 End-to-end Big Data ETL pipeline built with PySpark to process and analyze NYC Yellow Taxi trip data at scale.
 Covers ingestion, cleaning, transformations, aggregations, and analytical outputs using columnar storage.
 **Tech Stack:** PySpark · Pandas · Parquet · Data Quality Validation · Bash
-
-
+### [NoSQL Analytics with MongoDB (Movie Ratings)](https://github.com/krotov79/nosql-analytics-mongodb.git)
+Applied analytics project on semi-structured data using MongoDB.
+Focus on schema design, indexing strategies, aggregation pipelines, and performance benchmarking, with optional Spark integration.
+**Tech Stack:** MongoDB · PyMongo · Pandas · NoSQL Modeling · Aggregation Framework
+### [Transformer-based Document Intelligence System](https://github.com/krotov79/transformer-document-intelligence.git)
+NLP system for document classification and semantic understanding using transformer models.
+Implements preprocessing, model inference, evaluation, and result analysis for unstructured text data.
+**Tech Stack:** Python · Transformers · Deep Learning · NLP · Text Classification
+### [Spark ML Streaming Pipeline](https://github.com/krotov79/spark-ml-streaming-pipeline.git)
+Real-time machine learning pipeline built on Apache Spark.
+Demonstrates streaming data ingestion, feature processing, and ML inference in a distributed environment.
+**Tech Stack:** Apache Spark · ML Pipelines · Streaming · R
+### [RAG Document Agent (Generative AI)](https://github.com/krotov79/genai-rag-document-agent.git)
+Local Retrieval-Augmented Generation (RAG) system for document-based question answering.
+Uses semantic search with similarity thresholds and generates answers **only when supporting evidence exists**.
+**Tech Stack:** Sentence Transformers · FAISS · Gemini 2.5 Flash · FastAPI · Streamlit · Python
 
 ---
 
-## 🌱 Currently Learning
-- **Generative AI** with **IBM on edX** — exploring large language models, prompt engineering, and foundation models
+## 🧭 Current Focus
+- Applied Data Science & ML pipelines  
+- Generative AI (RAG, agents)  
+- Big Data processing with Spark
 
 ---
 
-## 📈 What’s Next
-More projects in **Big Data Engineering, Machine Learning, and Generative AI** coming soon —  
-along with a hybrid Spark + RStudio workflow for reporting and analytics.
+## 🚧 Ongoing  
+- Multi-agent LLM system (Hugging Face)
 
 ---
 
