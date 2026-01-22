@@ -35,18 +35,12 @@
 
 ## 🚀 Featured Projects
 
-### [NYC Taxi — Spark-based Big Data Pipeline](https://github.com/krotov79/01_Spark_ETL)
-End-to-end **PySpark ETL workflow** to process and analyze New York City Yellow Taxi trip data.  
-Includes data ingestion, cleaning, aggregation, enrichment, and visualization — all automated via a Makefile-driven workflow.  
-**Tech Stack:** PySpark · Pandas · Matplotlib · Parquet · Bash · Data Quality Validation
+### [Spark ETL Big Data Pipeline (NYC Taxi)](https://github.com/krotov79/spark-etl-big-data-pipeline) 
+End-to-end Big Data ETL pipeline built with PySpark to process and analyze NYC Yellow Taxi trip data at scale.
+Covers ingestion, cleaning, transformations, aggregations, and analytical outputs using columnar storage.
+**Tech Stack:** PySpark · Pandas · Parquet · Data Quality Validation · Bash
 
-### [MovieLens Recommendation System](https://github.com/krotov79/movielens)
-Movie recommendation system using the MovieLens dataset.  
-**Tech Stack:** R · Tidyverse · Machine Learning · Collaborative Filtering · Matrix Factorization · EDA · Data Visualization  
 
-### [Old Newspapers Analysis](https://github.com/krotov79/oldnewspapers)
-Historical newspaper analysis for trends, sentiment shifts, and topic modeling.  
-**Tech Stack:** R · Tidyverse · Tidytext · Sentiment Analysis · LDA Topic Modeling · Data Visualization  
 
 ---
 
